@@ -13,7 +13,14 @@ Workflow
 The flow diagram below illustrates how SILAH monitors group members,sends separation alerts,and guides them toward reunification.
 <img width="987" height="1934" alt="Blank diagram" src="https://github.com/user-attachments/assets/9b8fe7d7-c5f3-4617-a8a5-95ad32d83a18" />
 
-3-
+3-System Architecture 
+
+
+
+
+
+
+
 4-Proposed Hardware Components
 1- ESP32 Microcontroller
 Acts as the main controller of the smart bracelet. It processes incoming data, manages
@@ -46,7 +53,7 @@ position and identify nearby areas or floors
 Displays alerts and group member information, allowing the wearer to select a member and view navigation guidance directly on the bracelet.
 11-BLE Gateways
 Network-connected devices installed throughout the coverage area to relay data and alerts between the bracelets and the central system, even when group members are beyond direct Bluetooth range.
-4- 
+5-
 Design and Implementation
 The proposed system consists of smart bracelets connected to a group management system and a Digital Twin of Masjid alHaram
 in Makkah. Each bracelet will be assigned a unique device ID linked to a group ID, allowing the system to identify group
@@ -73,7 +80,11 @@ walking directions along available routes to help separated group members reunit
 The bracelets will be reusable, and each bracelet will be powered by a rechargeable battery connected to a charging circuit to
 provide the necessary power for its components. A power-saving mode will also be implemented to extend battery life.
 
-5- Concept Design
+6-
+Concept Design
+
+[SILAH_Concept_Design 2.pdf](https://github.com/user-attachments/files/34190028/SILAH_Concept_Design.2.pdf)
+
 
 
 
