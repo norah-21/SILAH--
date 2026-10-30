@@ -14,10 +14,8 @@ The flow diagram below illustrates how SILAH monitors group members,sends separa
 <img width="987" height="1934" alt="Blank diagram" src="https://github.com/user-attachments/assets/9b8fe7d7-c5f3-4617-a8a5-95ad32d83a18" />
 
 3-System Architecture 
-
-
-
-
+The diagram below shows how SILAH’s wristbands, positioning infrastructure, backend, and Digital Twin interface are connected.
+<img width="1870" height="644" alt="System_Arc" src="https://github.com/user-attachments/assets/05d6874c-ddad-4a46-94bc-e5cce151f41d" />
 
 
 
